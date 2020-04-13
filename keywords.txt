@@ -1,0 +1,12 @@
+#######################################
+# Syntax Coloring Map For flex_DST
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+flex_DST  KEYWORD1
+
+checkDST  KEYWORD2
+calculateTime KEYWORD2
