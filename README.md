@@ -16,19 +16,19 @@ The constructor receives the following parameters:
 
 ### irregularity
   (optional) A number that chooses the kind of DST configuration desired
-  0   Sunday to Sunday. This is the default and this parameter can be ommited in most cases
-  1   Friday to Sunday
-  2   Friday to Friday
-  3   Specific begining and end dates
+  * 0   Sunday to Sunday. This is the default and this parameter can be ommited in most cases
+  * 1   Friday to Sunday
+  * 2   Friday to Friday
+  * 3   Specific begining and end dates
 
 ### startDay
   (compulsory) Specifies which day the DST begins
 
-  1   First Sunday/Friday of the month
-  2   Second Sunday/Friday of the month
-  3   Third Sunday/Friday of the month
-  4   Fourth Sunday/Friday of the month
-  5   Last Sunday/Friday of the month
+  * 1   First Sunday/Friday of the month
+  * 2   Second Sunday/Friday of the month
+  * 3   Third Sunday/Friday of the month
+  * 4   Fourth Sunday/Friday of the month
+  * 5   Last Sunday/Friday of the month
 
   In the case of irregularity equal to 3, this parameter represents the exact day to begin the DST.
 
