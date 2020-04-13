@@ -42,7 +42,7 @@ The constructor receives the following parameters:
   (compulsory) Same arguments as startMonth
 
 
-## boolean flex_DST::checkDST(DateTime RTCTime)
+## boolean checkDST(DateTime RTCTime)
   Returns whether the given date is within the DST
 
 
