@@ -1,0 +1,21 @@
+{
+  "name": "flex_DST",
+  "keywords": "DST, time, clock, Daylight Saving Time, RTC",
+  "description": "A library for observing DST according to predefined parameters.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/kosme/flex_DST.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Enrique Condes",
+      "email": "enrique@shapeoko.com",
+      "maintainer": true
+    }
+  ],
+  "version": "1.0.1",
+  "frameworks": ["arduino"],
+  "platforms": "*"
+}
